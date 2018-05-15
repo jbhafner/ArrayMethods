@@ -1,6 +1,6 @@
 # Array Methods
 
-I have my own versions of four Array methods: myForEach(), myMap(), myFilter(), and myReduce().
+I created my own versions of four Array methods: myForEach(), myMap(), myFilter(), and myReduce().
 
 On my blog I have comments on how I made each method:
 ----------------------------------------------------
