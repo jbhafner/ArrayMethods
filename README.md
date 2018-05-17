@@ -13,3 +13,11 @@ Screenshot for myForEach():
 --------------------------
 
 <img src="forEach.PNG">
+
+Understanding prototypal vs. class-based inheritance:
+----------------------------------------------------
+MDN - Inheritance and the prototype chain: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
+Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?: https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+Prototypal Inheritance in JavaScript: https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb
