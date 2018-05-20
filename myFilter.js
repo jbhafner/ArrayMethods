@@ -7,7 +7,7 @@ Array.prototype.myFilter = function(func) {
             output.push(this[i]);
         }
     }
-    return output;
+  return output;  
 };
 
 function isTen(item) {
